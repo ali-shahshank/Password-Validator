@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#validator {
+  min-height: 100vh;
+  min-width: 100%;
+  background-color: #f7f7f7;
+}
+
+#validator-inner {
+  max-height: 500px;
+}
